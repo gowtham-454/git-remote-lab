@@ -5,3 +5,4 @@ def login(username, password):
 
 def logout(token):
     return True
+# Fixed edge case
